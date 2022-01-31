@@ -1,0 +1,87 @@
+@import url(https://fonts.googleapis.com/css?family=Khula:700);
+
+body{
+    background: radial-gradient(circle, rgba(95,135,197,1) 0%, rgba(239,218,218,1) 33%, rgba(26,26,26,1) 86%);
+}
+.hidden {
+  opacity:0;
+}
+.console-container {
+  font-family:Khula;
+  font-size:1em;
+  text-align:center;
+  margin-bottom:40px;
+  display:block;
+  position:absolute;
+  color:grey;
+  top:0;
+  bottom:0;
+  left:0;
+  right:0;
+  margin:auto;
+}
+.console-underscore {
+   display:inline-block;
+  position:relative;
+  left:10px;
+}
+
+#news{
+    background-color:grey;
+}
+
+#text span{
+    margin-top:70px;
+}
+
+#navbar{
+    margin-top:30px;
+    height:70px;
+    background-color:transparent
+}
+#main{
+    margin-top:40px;
+}
+
+.carousel-item > img{
+    margin:auto;
+    
+}
+
+.carousel{
+   
+    width:60%;
+    height:40%;
+    margin:auto;
+}
+
+.summary{
+    padding-top:40px;
+    padding-bottom:40px;
+}
+
+.summary h1{
+    color:navy;
+    text-align:center;
+    margin:20px;
+}
+
+
+.Footer{
+    background:rgb(0, 0, 0);
+    text-align:center;
+    
+}
+
+.Footer > h3{
+    color:blue;
+    padding-top:20px;
+    font-size:25px;
+}
+ ul> li{
+    display:inline-block;
+    justify-content: center;
+    margin:30px;
+    
+}
+
